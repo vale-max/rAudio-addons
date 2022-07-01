@@ -36,7 +36,7 @@
         , "version":	 "20220702"
         , "nouninstall": 1
         , "buttonlabel": "<i class='fa fa-plus-circle'></i> Add"
-	, "description": "Add DAB radio reception capabilities"
+	, "description": "Add DAB radio reception capabilities - Please enable ffmpeg decoder in settings"
         , "thumbnail":   "/assets/img/addons/thumbdab.jpg"
         , "sourcecode":  "https://github.com/vale-max/rAudio-addons/raw/main/dabradio"
         , "installurl":  "https://github.com/vale-max/rAudio-addons/raw/main/dabradio/install.sh"
