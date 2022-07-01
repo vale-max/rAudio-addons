@@ -1,0 +1,205 @@
+
+
+Ensemble SPACEDAB        ; ensembleId 5023; channel 10A; 
+
+
+Audio services
+type;program name;channel;serviceId;subchannelId;start address;length (CU); bit rate;DAB/DAB+; genre; prot level; code rate; language
+
+audioservice;POPeROCK        ;10A;5425;1;0;48;64;DAB+;11;EEP 3-A;1/2;unknown;
+audioservice;SYSTEM by RC    ;10A;5A83;2;48;72;96;DAB+;10;EEP 3-A;1/2;unknown;
+audioservice;RVS             ;10A;52F1;3;120;36;48;DAB+;20;EEP 3-A;1/2;unknown;
+audioservice;TEST72cu        ;10A;508B;4;156;72;96;DAB+;9;EEP 3-A;1/2;unknown;
+audioservice;LifeGate        ;10A;5249;5;228;36;48;DAB+;12;EEP 3-A;1/2;unknown;
+audioservice;Radio Radio     ;10A;5116;6;264;36;48;DAB+;1;EEP 3-A;1/2;unknown;
+audioservice;RADIOCASSINO    ;10A;5E77;7;300;36;48;DAB+;9;EEP 3-A;1/2;unknown;
+audioservice;EXTRA RADIO     ;10A;54AB;8;336;36;48;DAB+;9;EEP 3-A;1/2;unknown;
+audioservice;AELLE           ;10A;5E00;9;372;36;48;DAB+;9;EEP 3-A;1/2;unknown;
+audioservice;RADIO NOISE     ;10A;5232;10;408;36;48;DAB+;0;EEP 3-A;1/2;unknown;
+audioservice;VOXSON          ;10A;8;11;444;12;16;DAB+;9;EEP 3-A;1/2;unknown;
+audioservice;*SIMPLY*        ;10A;6158;12;456;72;96;DAB+;10;EEP 3-A;1/2;unknown;
+audioservice;SIMPLY ITALIA   ;10A;53F3;13;528;36;48;DAB+;10;EEP 3-A;1/2;unknown;
+audioservice;Radio Blue Point;10A;6148;14;564;36;48;DAB+;9;EEP 3-A;1/2;unknown;
+audioservice;Radio Oscia'    ;10A;50CE;15;600;36;48;DAB+;9;EEP 3-A;1/2;unknown;
+audioservice;RADIO LATINA    ;10A;5E6C;16;636;48;64;DAB+;9;EEP 3-A;1/2;unknown;
+audioservice;RADIO LUNA      ;10A;52FE;17;684;48;64;DAB+;9;EEP 3-A;1/2;unknown;
+audioservice;Radio SPAZIO BLU;10A;54C2;18;732;48;64;DAB+;9;EEP 3-A;1/2;unknown;
+
+
+Ensemble MEDIADAB        ; ensembleId 5021; channel 10B; 
+
+
+Audio services
+type;program name;channel;serviceId;subchannelId;start address;length (CU); bit rate;DAB/DAB+; genre; prot level; code rate; language
+
+audioservice;RADIO NEWS 24   ;10B;53DD;1;0;36;48;DAB+;1;EEP 3-A;1/2;unknown;
+audioservice;LOVE FM         ;10B;52E5;2;36;36;48;DAB+;12;EEP 3-A;1/2;unknown;
+audioservice;OLGIATA         ;10B;5E30;3;72;36;48;DAB+;10;EEP 3-A;1/2;unknown;
+audioservice;R.GAMMA         ;10B;5B8A;4;108;36;48;DAB+;10;EEP 3-A;1/2;unknown;
+audioservice;RADIO K55       ;10B;5CCD;5;144;36;48;DAB+;9;EEP 3-A;1/2;unknown;
+audioservice;GIORNALE RADIO  ;10B;5170;6;180;36;48;DAB+;1;EEP 3-A;1/2;unknown;
+audioservice;RTR 99          ;10B;5424;7;216;72;96;DAB+;27;EEP 3-A;1/2;unknown;
+audioservice;#ENERGY         ;10B;500D;8;288;36;48;DAB+;20;EEP 3-A;1/2;unknown;
+audioservice;R.CIVITA        ;10B;5032;9;324;36;48;DAB+;20;EEP 3-A;1/2;unknown;
+audioservice;906 NTWK        ;10B;50DF;10;360;36;48;DAB+;10;EEP 3-A;1/2;unknown;
+audioservice;#Byoblu#        ;10B;5009;11;396;36;48;DAB+;3;EEP 3-A;1/2;unknown;
+audioservice;FunkyCornerRadio;10B;50BC;12;432;36;48;DAB+;27;EEP 3-A;1/2;unknown;
+audioservice;GR ULTIMA ORA   ;10B;5171;13;468;24;32;DAB+;1;EEP 3-A;1/2;unknown;
+audioservice;CUSANO TV       ;10B;5569;14;492;36;48;DAB+;3;EEP 3-A;1/2;unknown;
+audioservice;*RADIO CAFE'*   ;10B;53C8;15;528;36;48;DAB+;10;EEP 3-A;1/2;unknown;
+audioservice;*STEREOCITTA'*  ;10B;53C7;16;564;36;48;DAB+;9;EEP 3-A;1/2;unknown;
+audioservice;BIRIKINA DAB    ;10B;536E;17;600;36;48;DAB+;9;EEP 3-A;1/2;unknown;
+audioservice;PITERPAN DAB    ;10B;5373;18;636;36;48;DAB+;9;EEP 3-A;1/2;unknown;
+audioservice;RADIO BRUNO DAB ;10B;534D;19;672;36;48;DAB+;10;EEP 3-A;1/2;unknown;
+audioservice;#R.Classica Dab#;10B;5453;20;708;36;48;DAB+;13;EEP 3-A;1/2;unknown;
+audioservice;R.ITALIA ANNI 60;10B;5495;21;744;36;48;DAB+;27;EEP 3-A;1/2;unknown;
+audioservice;RID 96.8        ;10B;50CE;22;780;36;48;DAB+;10;EEP 3-A;1/2;unknown;
+audioservice;RADIO LEON      ;10B;50EA;23;816;36;48;DAB+;10;EEP 3-A;1/2;unknown;
+
+
+Ensemble * EMMEDAB *     ; ensembleId 5033; channel 10C; 
+
+
+Audio services
+type;program name;channel;serviceId;subchannelId;start address;length (CU); bit rate;DAB/DAB+; genre; prot level; code rate; language
+
+audioservice;Retesport       ;10C;53F4;3;84;21;32;DAB+;4;EEP 2-B;4/7;unknown;
+audioservice;Radio4          ;10C;5001;5;147;42;64;DAB+;9;EEP 2-B;4/7;unknown;
+audioservice;NEW-SOUND-LEVEL ;10C;5028;6;189;42;64;DAB+;3;EEP 2-B;4/7;unknown;
+audioservice;RADIO ROCK 106.6;10C;5223;7;231;42;64;DAB+;11;EEP 2-B;4/7;unknown;
+audioservice;RadioDolceMusica;10C;54AA;8;273;42;64;DAB+;9;EEP 2-B;4/7;unknown;
+audioservice;EASY & ITALY    ;10C;5338;9;315;42;64;DAB+;12;EEP 2-B;4/7;unknown;
+audioservice;RadioCittaFutura;10C;53DE;10;357;42;64;DAB+;9;EEP 2-B;4/7;unknown;
+audioservice;R_AntennaMusica ;10C;502E;11;399;21;32;DAB+;9;EEP 2-B;4/7;unknown;
+audioservice;Radio Mambo     ;10C;500A;12;420;42;64;DAB+;15;EEP 2-B;4/7;unknown;
+audioservice;RADIO STUDIO 2  ;10C;5EB7;15;546;42;64;DAB+;10;EEP 2-B;4/7;unknown;
+audioservice;CORE DE ROMA    ;10C;5A15;16;588;21;32;DAB+;15;EEP 2-B;4/7;unknown;
+audioservice;RADIO YES       ;10C;2;17;609;21;32;DAB+;9;EEP 2-B;4/7;unknown;
+audioservice;MIAMI VICE RADIO;10C;1;18;630;48;64;DAB+;10;EEP 3-A;1/2;unknown;
+audioservice;TEST 48Kb       ;10C;13;19;678;24;48;DAB+;3;EEP 4-A;3/4;unknown;
+audioservice;RSHOWITALIA103e5;10C;5EA8;20;702;21;32;DAB+;9;EEP 2-B;4/7;unknown;
+audioservice;CENTROSUONO 1013;10C;5EA9;13;462;42;64;DAB+;10;EEP 2-B;4/7;unknown;
+audioservice;CENTROSUONOSPORT;10C;5EC8;14;504;42;64;DAB+;4;EEP 2-B;4/7;unknown;
+audioservice;TEST URBAN 48   ;10C;15;21;723;24;48;DAB+;15;EEP 4-A;3/4;unknown;
+audioservice;TEST  RADIOSEI  ;10C;5398;22;747;21;32;DAB+;4;EEP 2-B;4/7;unknown;
+audioservice;CALIMA (Test)   ;10C;E388;1;0;42;64;DAB+;10;EEP 2-B;4/7;unknown;
+audioservice;RADIO MANA'MANA';10C;508C;2;42;42;64;DAB+;3;EEP 2-B;4/7;unknown;
+audioservice;RADIO STANDBY   ;10C;5337;4;105;42;64;DAB+;11;EEP 2-B;4/7;unknown;
+
+
+Ensemble CR DAB+ LAZIO   ; ensembleId 50A1; channel 10D; 
+
+
+Audio services
+type;program name;channel;serviceId;subchannelId;start address;length (CU); bit rate;DAB/DAB+; genre; prot level; code rate; language
+
+audioservice;GLOBO           ;10D;5E29;1;0;48;64;DAB+;10;EEP 3-A;1/2;unknown;
+audioservice;KISSKISS ITALIA ;10D;531F;2;48;48;64;DAB+;26;EEP 3-A;1/2;unknown;
+audioservice;DIM SUONO *ROMA*;10D;5E65;3;96;48;64;DAB+;10;EEP 3-A;1/2;unknown;
+audioservice;ZETA            ;10D;5299;4;144;48;64;DAB+;10;EEP 3-A;1/2;unknown;
+audioservice;RAMPOWER        ;10D;5E90;5;192;48;64;DAB+;10;EEP 3-A;1/2;unknown;
+audioservice;DIM SUONO *SOFT*;10D;5E49;6;240;48;64;DAB+;13;EEP 3-A;1/2;unknown;
+audioservice;TeleRadioStereo ;10D;5343;7;288;48;64;DAB+;9;EEP 3-A;1/2;unknown;
+audioservice;SONICA          ;10D;5347;8;336;48;64;DAB+;10;EEP 3-A;1/2;unknown;
+audioservice;STUDIO93        ;10D;51C1;9;384;48;64;DAB+;10;EEP 3-A;1/2;unknown;
+audioservice;NOSTALGIA       ;10D;54AE;10;432;48;64;DAB+;10;EEP 3-A;1/2;unknown;
+audioservice;RADIO MATER     ;10D;5158;11;480;48;64;DAB+;20;EEP 3-A;1/2;unknown;
+audioservice;ENERGY          ;10D;5995;12;528;48;64;DAB+;10;EEP 3-A;1/2;unknown;
+audioservice;Hot Block Radio ;10D;6000;13;576;48;64;DAB+;9;EEP 3-A;1/2;unknown;
+audioservice;COMPANY         ;10D;5350;14;624;48;64;DAB+;10;EEP 3-A;1/2;unknown;
+audioservice;M100            ;10D;5E35;15;672;48;64;DAB+;27;EEP 3-A;1/2;unknown;
+audioservice;CUSANO CAMPUS   ;10D;5212;16;720;48;64;DAB+;1;EEP 3-A;1/2;unknown;
+
+
+Ensemble #EuroDab Italia ; ensembleId 5003; channel 12A; 
+
+
+Audio services
+type;program name;channel;serviceId;subchannelId;start address;length (CU); bit rate;DAB/DAB+; genre; prot level; code rate; language
+
+audioservice;#RTL 102.5 b&s  ;12A;5296;4;408;42;56;DAB+;15;EEP 3-A;1/2;unknown;
+audioservice;#RTL 102.5 news ;12A;5294;6;486;42;56;DAB+;1;EEP 3-A;1/2;unknown;
+audioservice;BBC WorldService;12A;C238;7;528;42;56;DAB+;1;EEP 3-A;1/2;unknown;
+audioservice;#RTL102.5 napulè;12A;529F;8;570;42;56;DAB+;28;EEP 3-A;1/2;unknown;
+audioservice;RadioItaliaTrend;12A;5221;11;48;36;48;DAB+;15;EEP 3-A;1/2;unknown;
+audioservice;#RTL 102.5 doc  ;12A;52EF;9;612;42;56;DAB+;24;EEP 3-A;1/2;unknown;
+audioservice;RMC             ;12A;5213;18;654;36;48;DAB+;12;EEP 3-A;1/2;unknown;
+audioservice;Virgin Radio    ;12A;5241;19;690;36;48;DAB+;11;EEP 3-A;1/2;unknown;
+audioservice;Radio Libertà   ;12A;5276;17;84;24;32;DAB+;2;EEP 3-A;1/2;unknown;
+audioservice;105             ;12A;5211;23;762;42;56;DAB+;10;EEP 3-A;1/2;unknown;
+audioservice;SUBASIO XL      ;12A;5FEE;20;726;36;48;DAB+;10;EEP 3-A;1/2;unknown;
+audioservice;inBlu 2000      ;12A;5126;21;804;24;32;DAB+;1;EEP 3-A;1/2;unknown;
+audioservice;*Test*          ;12A;5279;16;840;24;48;DAB+;10;EEP 4-A;3/4;unknown;
+audioservice;KISSKISS        ;12A;5225;12;108;36;48;DAB+;10;EEP 3-A;1/2;unknown;
+audioservice;Radio Italia SMI;12A;5220;10;0;48;64;DAB+;26;EEP 3-A;1/2;unknown;
+audioservice;RVaticana Ita + ;12A;510E;15;144;24;32;DAB+;20;EEP 3-A;1/2;unknown;
+audioservice;#RTL 102.5      ;12A;5218;0;168;72;96;DAB+;10;EEP 3-A;1/2;unknown;
+audioservice;#RadioFreccia   ;12A;5293;1;240;72;96;DAB+;11;EEP 3-A;1/2;unknown;
+audioservice;#ZETA dab       ;12A;5299;2;312;54;72;DAB+;26;EEP 3-A;1/2;unknown;
+audioservice;#RTL 102.5 best ;12A;5298;3;366;42;56;DAB+;27;EEP 3-A;1/2;unknown;
+audioservice;#RTL 102.5 r&j  ;12A;5297;5;450;36;48;DAB+;12;EEP 3-A;1/2;unknown;
+
+
+Ensemble DAB+ RAI        ; ensembleId 5001; channel 12B; 
+
+
+Audio services
+type;program name;channel;serviceId;subchannelId;start address;length (CU); bit rate;DAB/DAB+; genre; prot level; code rate; language
+
+audioservice;Rai Radio1      ;12B;5201;1;0;72;96;DAB+;1;EEP 3-A;1/2;unknown;
+audioservice;Rai Radio2      ;12B;5202;2;72;72;96;DAB+;12;EEP 3-A;1/2;unknown;
+audioservice;Rai Radio3      ;12B;5203;3;144;72;96;DAB+;7;EEP 3-A;1/2;unknown;
+audioservice;Rai GrParlamento;12B;5206;4;216;36;48;DAB+;3;EEP 3-A;1/2;unknown;
+audioservice;Rai Isoradio    ;12B;5209;5;252;72;96;DAB+;3;EEP 3-A;1/2;unknown;
+audioservice;RaiTuttaItaliana;12B;5207;6;324;72;96;DAB+;13;EEP 3-A;1/2;unknown;
+audioservice;Rai R3 Classica ;12B;5205;7;396;72;96;DAB+;14;EEP 3-A;1/2;unknown;
+audioservice;Rai Radio1 Sport;12B;520F;8;468;36;48;DAB+;4;EEP 3-A;1/2;unknown;
+audioservice;Rai R Techete'  ;12B;52F1;10;504;36;48;DAB+;7;EEP 3-A;1/2;unknown;
+audioservice;Rai Radio Live  ;12B;52F2;11;540;36;48;DAB+;7;EEP 3-A;1/2;unknown;
+audioservice;Rai Radio Kids  ;12B;52F3;12;576;48;64;DAB+;7;EEP 3-A;1/2;unknown;
+audioservice;Rai Radio2 Indie;12B;520A;13;624;36;48;DAB+;15;EEP 3-A;1/2;unknown;
+audioservice;CUSANO ITALIA   ;12B;5226;14;660;36;48;DAB+;3;EEP 3-A;1/2;unknown;
+audioservice;ACI Radio       ;12B;5227;15;696;36;48;DAB+;3;EEP 3-A;1/2;unknown;
+audioservice;CANALE ITALIA + ;12B;5263;16;732;36;48;DAB+;10;EEP 3-A;1/2;unknown;
+audioservice;Number 1 Extra  ;12B;5229;17;768;36;48;DAB+;10;EEP 3-A;1/2;unknown;
+
+
+Ensemble * DAB Italia *  ; ensembleId 5009; channel 12C; 
+
+
+Audio services
+type;program name;channel;serviceId;subchannelId;start address;length (CU); bit rate;DAB/DAB+; genre; prot level; code rate; language
+
+audioservice;Capital         ;12C;5219;5;156;48;64;DAB+;10;EEP 3-A;1/2;Italian;
+audioservice;M DUE O         ;12C;5233;6;204;48;64;DAB+;10;EEP 3-A;1/2;Italian;
+audioservice;Deejay          ;12C;5214;3;72;48;64;DAB+;10;EEP 3-A;1/2;Italian;
+audioservice;Radio 24        ;12C;5245;7;252;36;48;DAB+;1;EEP 3-A;1/2;Italian;
+audioservice;* RDS *         ;12C;5264;8;288;36;48;DAB+;10;EEP 3-A;1/2;Italian;
+audioservice;Capital Funky   ;12C;5285;17;696;24;32;DAB+;10;EEP 3-A;1/2;Italian;
+audioservice;105 DAB         ;12C;5286;11;324;36;48;DAB+;10;EEP 3-A;1/2;Italian;
+audioservice;Kc1Test         ;12C;5280;12;360;96;96;DAB+;12;EEP 2-A;3/8;French;
+audioservice;Kc2Test         ;12C;5288;13;456;96;96;DAB+;24;EEP 2-A;3/8;English;
+audioservice;M DUE O DANCE   ;12C;5287;18;720;24;32;DAB+;10;EEP 3-A;1/2;Italian;
+audioservice;Radio Maria     ;12C;51CC;1;0;36;48;DAB+;7;EEP 3-A;1/2;Italian;
+audioservice;Radio 24 +1     ;12C;5282;19;744;36;48;DAB+;1;EEP 3-A;1/2;Italian;
+audioservice;Kc3Test         ;12C;5289;14;552;72;96;DAB+;27;EEP 3-A;1/2;English;
+audioservice;Radio Radicale  ;12C;5210;2;36;36;48;DAB+;1;EEP 3-A;1/2;Italian;
+audioservice;Deejay 30 Songs ;12C;5283;20;780;24;32;DAB+;10;EEP 3-A;1/2;Italian;
+audioservice;RR News         ;12C;5284;21;804;36;48;DAB+;1;EEP 3-A;1/2;Italian;
+audioservice;R101            ;12C;5215;4;120;36;48;DAB+;10;EEP 3-A;1/2;Italian;
+audioservice;RMALB.IA        ;12C;52CC;15;624;36;48;DAB+;7;EEP 3-A;1/2;Albanian;
+audioservice;* RDS * Relax   ;12C;5281;16;660;36;48;DAB+;10;EEP 3-A;1/2;Italian;
+
+
+Ensemble DAB Vaticano    ; ensembleId 4100; channel 12D; 
+
+
+Audio services
+type;program name;channel;serviceId;subchannelId;start address;length (CU); bit rate;DAB/DAB+; genre; prot level; code rate; language
+
+audioservice;RVaticana Europ+;12D;410A;1;108;108;72;DAB+;9;EEP 1-A;1/4;unknown;
+dataservice;RVaticana Europ+;12D;410A;3;324;12;8;FEC;EEP 1-A;unknown;Multimedia Object Transfer (MOT);yes;
+audioservice;Radio Vaticana  ;12D;410D;0;0;108;72;DAB+;20;EEP 1-A;1/4;unknown;
+audioservice;RVaticana Ita+  ;12D;410E;0;0;108;72;DAB+;20;EEP 1-A;1/4;unknown;
+audioservice;RVaticana World+;12D;410B;2;216;108;72;DAB+;1;EEP 1-A;1/4;unknown;
+dataservice;RVaticana Europ+;12D;410A;3;324;12;8;FEC;EEP 1-A;unknown;Multimedia Object Transfer (MOT);yes;

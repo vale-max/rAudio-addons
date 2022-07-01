@@ -6,7 +6,7 @@
     }
     , "r1": {
           "title":       "rAudio 1"
-        , "version":     "20220625"
+        , "version":     "20220702"
         , "revision":    [
               "Fix - System - Status for current boot"
 			, "Fix - WebRadio with prefix other than <code>http</code> in subdirectory"
@@ -15,8 +15,8 @@
         , "buttonlabel": "Update"
         , "nouninstall": 1
         , "thumbnail":   "/assets/img/coverart.svg"
-        , "sourcecode":  "https://github.com/rern/rAudio-1"
-        , "installurl":  "https://github.com/rern/rAudio-1/raw/main/install.sh"
+        , "sourcecode":  "https://github.com/vale-max/rAudio-1"
+        , "installurl":  "https://github.com/vale-max/rAudio-1/raw/main/install.sh"
         , "verify": {
               "command":     "[[ $( cat /srv/http/data/addons/r1 ) < 20220526 ]] && echo 1"
             , "notverified": "Please download the latest image file to be able to update."
@@ -30,6 +30,21 @@
         , "sourcecode":  "https://github.com/rern/rAudio-addons/raw/main/webradio"
         , "installurl":  "https://github.com/rern/rAudio-addons/raw/main/webradio/install.sh"
         , "hide":        "[[ -e /srv/http/data/webradios/Fip || $( ls '/srv/http/data/webradios/https:||icecast.radiofrance.fr'* | wc -l ) == 19 ]] && echo 1 || echo 0"
+    }
+    , "DAB": {
+          "title":       "DAB Radio"
+        , "version":	 "20220702"
+        , "nouninstall": 1
+        , "buttonlabel": "<i class='fa fa-plus-circle'></i> Add"
+	, "description": "Add DAB radio reception capabilities"
+        , "thumbnail":   "/assets/img/addons/thumbdab.jpg"
+        , "sourcecode":  "https://github.com/vale-max/rAudio-addons/raw/main/dabradio"
+        , "installurl":  "https://github.com/vale-max/rAudio-addons/raw/main/dabradio/install.sh"
+        , "hide": 	 "[[ -e /srv/http/assets/img/addons/thumbdab.jpg ]] && echo 0 || echo 1"
+        , "verify": {
+              "command":     "[[ $( cat /srv/http/data/addons/r1 ) < 20220701 ]] && echo 1"
+            , "notverified": "Please update main rAudio-1 to be able to install this addon."
+        }
     }
     , "radi": {
           "title":       "Import Webradio"
